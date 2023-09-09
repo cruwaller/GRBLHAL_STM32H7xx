@@ -19,6 +19,8 @@
   along with Grbl.  If not, see <http://www.gnu.org/licenses/>.
 */
 
+#error my_machine_header_not_used
+
 // NOTE: Only one board may be enabled!
 // If none is enabled pin mappings from generic_map.h will be used.
 //#define BOARD_PROTONEER_3XX   // For use with a Nucleo-F756ZG board.
